@@ -87,5 +87,6 @@ class MedicineAgent:
 
 
 result:
+```
 <img width="1037" height="221" alt="Screenshot 2026-07-27 131440" src="https://github.com/user-attachments/assets/b05f7374-0a58-49be-8624-0edc8c4d8121" />
-
+```
